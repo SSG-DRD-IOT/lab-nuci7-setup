@@ -1,4 +1,4 @@
-# Setup and Connect to you NUCi7 Intel* to the Arduino Create Environment
+# Setup and Connect to your Intel* NUC to the Arduino Create Environment
 
 ## Lab Objectives
 This lab walks through the setup process for using an Intel* NUC, Arduino 101*, and a Grove sensor kit are ready for IoT development with the Arduino Create Environment.
