@@ -5,10 +5,6 @@
 
 ## Lab Objectives
 
-The labs in this workshop are organized in a progression that will result in each attendee building their own automated and secured, multi-device IoT network.
-
-Start by making sure your computer, Arduino 101*, and Intel® IoT Gateway are ready for IoT development.
-
 By the end of this module, you should be able to:
 
 *   Unbox and setup your Intel® IoT Gateway and Arduino 101* Hardware

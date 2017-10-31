@@ -23,7 +23,7 @@ Install the Agent and you will see if appear in the system tray of UI menu of yo
 After you install the Arduino Create Agent, it will use the USB cable that you connected from the device to your development computer to login to your device, get the IP address and complete the registration process with the Arduino Create environment.
 
 
-## Name Your Computer
-Lastly, you will be asked to name Your device.
+## Name Your Device
+Lastly, you will be asked to name your device.
 
 ## Now You Can Begin Coding
