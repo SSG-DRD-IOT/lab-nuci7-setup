@@ -6,7 +6,7 @@ This lab walks through the setup process for using an Intel* NUC, Arduino 101*, 
 By the end of this module, you should be able to:
 1. [Setup the Hardware](nuc-setup-hardware.md)
 2. [Install the Arduino Create Agent on Your Development Computer](setup-arduino-create-agent.md)
-3. [Register Your Up2 Board as a Device on Arduino Create](nuc-register-device.md)
+3. [Register Your NUC Board as a Device on Arduino Create](nuc-register-device.md)
 
 ![](images/1.png)
 ![](images/2.png)
